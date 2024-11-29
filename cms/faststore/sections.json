@@ -1,0 +1,22 @@
+[
+    {
+        "name": "FormRevendedores",
+        "schema":{
+            "title": "Formulario para revendedores",
+            "description": "Formulario para revendedores",
+            "type": "object",
+            "properties":{
+                "textDescription":{
+                    "type": "string",
+                    "title": "Título do formulário",
+                    "description": "Titulo exibido no formulário"
+                },
+                "LabelInputName":{
+                    "type": "string",
+                    "title": "Campo nome",
+                    "desription": "Campo nome para preenchimento"
+                }
+            }
+        }
+    }
+]
